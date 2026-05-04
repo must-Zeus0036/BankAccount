@@ -1,2 +1,2 @@
 # BankAccount
-Ctrsting a simple Bank account for the user
+Creating a simple Bank account for the user
